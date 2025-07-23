@@ -33,7 +33,7 @@ Sou apaixonada por dados abertos, tecnologia e impacto social. Tenho experiênci
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
 | [📊 GGMA DW](https://github.com/NGI-SECOGE-SESAU/database_ggma) | Estrutura de data warehouse estadual para saúde pública | DBT, PostgreSQL, Airflow |
-| [⚙️ Robô CNES](https://github.com/NGI-SECOGE-SESAU/robot_cnes) | Extração automática de dados do CNES usando Selenium e PyAutoGUI | Python, Selenium |
+| [⚙️ Robô CNES](https://github.com/NGI-SECOGE-SESAU/robot_cnes) | Extração automática de dados do CNES usando Selenium, PyAutoGUI e BS4| Python, Selenium, BS4 |
 | [📈 Indicadores SESAU](https://github.com/NGI-SECOGE-SESAU/indicadores_sesau) | Geração de relatórios e indicadores da SESAU em Power BI com automação via Python | Pandas, Power BI, Google Sheets API |
 
 ---
