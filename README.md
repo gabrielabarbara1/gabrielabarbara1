@@ -1,7 +1,7 @@
-<h1 align="center">👋 Oi, eu sou a Gabi Bárbara</h1>
+<h1 align="center">👋 Oi, eu sou a Gabriela Bárbara</h1>
 
 <p align="center">
-  Analista de Dados | Desenvolvedora Python | Foco em Saúde Pública e Automação
+  Engenheira de Dados | Desenvolvedora Python | Foco em Automação
 </p>
 
 ---
@@ -50,10 +50,10 @@ Sou apaixonada por dados abertos, tecnologia e impacto social. Tenho experiênci
 ### 📫 Como me encontrar
 
 <div align="center">
-  <a href="mailto:gabriela@email.com">
+  <a href="mailto:gabrielapcosta13@icloud.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabrielabarbara1">
+  <a href="https://www.linkedin.com/in/gabriela-barbara-dev/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/gabrielabarbara1">
@@ -64,5 +64,4 @@ Sou apaixonada por dados abertos, tecnologia e impacto social. Tenho experiênci
 ---
 
 <p align="center">
-  Feito com 💙 por Gabi Bárbara
 </p>
