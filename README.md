@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou a Gabriela Bárbara</h1>
+<h1 align="center">👋 Oi, eu sou Gabriela Bárbara</h1>
 
 <p align="center">
   Engenheira de Dados | Desenvolvedora Python | Foco em Automação
